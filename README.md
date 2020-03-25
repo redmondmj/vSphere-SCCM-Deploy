@@ -1,4 +1,4 @@
-# vSphere-SCCM-Deply
+# vSphere-SCCM-Deploy
  On-Prem NSCC Student Deployment of SCCM
 
 ## Work in progress.
